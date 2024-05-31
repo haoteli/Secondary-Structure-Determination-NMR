@@ -1,0 +1,7 @@
+arguments:
+1.Path to the csv file of that contains two arrays of spectral data
+2.Name for the ppm axis in the csv file
+3.Name for the intensity axis in the csv file
+4.FASTA sequence
+5.Use re-referencing (False/True)
+  
