@@ -57,7 +57,7 @@ python GD.py MDT_gb1_referenced.csv ppm gb1 MQYKLILNGKTLKGETTTEAVDAATAEKVFKQYAND
 The "Examples" folder contains a set of pre-configured Google Colab notebooks and sample spectra that reproduce the results presented in our manuscript.
 
 ## Citation
-For references please cite the manuscript: I will include the article link here in the future.
+For references please cite the manuscript:  Li H, Tuttle M, Zilm K, Batista V. Rapid Quantification of Protein Secondary Structure Composition from a Single Unassigned 1D 13C NMR Spectrum. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-qt9g4
 
 
 For questions, comments, or support, please contact the authors:
