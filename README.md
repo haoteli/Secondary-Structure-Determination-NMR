@@ -56,11 +56,23 @@ python GD.py MDT_gb1_referenced.csv ppm gb1 MQYKLILNGKTLKGETTTEAVDAATAEKVFKQYAND
 ## Examples
 The "Examples" folder contains a set of pre-configured Google Colab notebooks and sample spectra that reproduce the results presented in our manuscript.
 
+
 ## Citation
-For references, a preprint of this work is available:  Li H, Tuttle M, Zilm K, Batista V. Rapid Quantification of Protein Secondary Structure Composition from a Single Unassigned 1D 13C NMR Spectrum. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-qt9g4
 
+If you use this work in your research, please cite:
 
-For questions, comments, or support, please contact the authors:
+```bibtex
+@article{li2024rapid,
+  title={Rapid Quantification of Protein Secondary Structure Composition from a Single Unassigned 1D 13C Nuclear Magnetic Resonance Spectrum},
+  author={Li, Haote and Tuttle, Marcus D and Zilm, Kurt W and Batista, Victor S},
+  journal={Journal of the American Chemical Society},
+  year={2024},
+  publisher={ACS Publications}
+}
+```
+
+For questions and comments, please contact the authors:
 
 - Haote Li (haote.li@yale.edu)
 - Marcus D. Tuttle (marcus.tuttle@yale.edu)
+
